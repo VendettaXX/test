@@ -19,6 +19,5 @@ int main(void)
     }
     printf("%d\n",sizeof(b));
     free(b);
-	getchar();
     return 0;
 }
